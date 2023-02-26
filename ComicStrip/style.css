@@ -1,0 +1,35 @@
+.ComicContainer{
+    border:solid steelblue;
+    background-color: steelblue;
+    Height:93vh;
+}
+
+.RowOne, .RowTwo{
+    border:solid tomato;
+    background-color: tomato;
+    height:45%;
+    margin:12px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.block{
+    border:solid tomato;
+    width:33%;
+}
+
+.pic{ 
+    border: solid cornsilk;
+    background-color: cornsilk;
+    width:95%;
+    height:65%;
+}
+
+.PunchLine{
+    border:solid cornsilk;
+    background-color: steelblue;
+    height:20%;
+    text-align:center;
+
+
+}
